@@ -18,3 +18,9 @@ Or you may need to give it executable permission using
 sudo chmod +x main.c main
 
 
+# To do: 
+1. add more mathmetical oparetion's functions
+2. calculate varius objects for example area of triangle ect.
+3. Unit conversion 
+4. Curencey conversion
+5. GUI development
