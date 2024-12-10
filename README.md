@@ -24,3 +24,5 @@ sudo chmod +x main.c main
 3. Unit conversion 
 4. Curencey conversion
 5. GUI development
+
+![calC](https://github.com/user-attachments/assets/8428717e-fcd1-4274-b1e1-3f3fd9d2d4ea)
